@@ -1,4 +1,5 @@
-# server-info
+# server-info [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+
 Simple application made to collect IP addresses and name server from a host.
 
 ## Help
